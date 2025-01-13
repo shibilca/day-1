@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    background-color: gray;
+    border-style: groove;
+    color: pink;
+}
+table{
+    border-style: double solid;
+    color: black;
+    background-color: white;
+    border-color: brown;
+}
+h2{
+    text-align: right;
+}
+.heading{
+    padding: 20px 20px;
+    margin: 50px;
+    color: orange;
+    background-color: blue;
+}
+ul,ol{
+    border-style: dotted;
+    
+    padding: 50px;
+    margin: 100px;
+}
+li{
+    padding: 10px;
+    margin: 0px;
+
+}
